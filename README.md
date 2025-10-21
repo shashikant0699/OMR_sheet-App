@@ -19,4 +19,4 @@ Users can mark answers like a real OMR sheet and export them to a `.txt` file.
 1. Install Python (3.8 or above) from [python.org](https://www.python.org/downloads/)
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Interactive-OMR-App.git
+   git clone https://github.com/shashikant0699/OMR_sheet-App.git
